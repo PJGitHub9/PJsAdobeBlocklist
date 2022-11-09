@@ -22,7 +22,8 @@ ss-prod-va6c2-notif-9.va6c2.adobess.com
 acp-ss-va6c2.adobe.io
 developer.adobe.com
 stock.adobe.io
-
+cai-splunk-proxy.adobe.io
+m59b4msyph.adobe.io
 
 
 ##Imported from Existing Adobe Blocklist (Thanks UncleRoger33!!)

@@ -444,7 +444,7 @@ googleads.g.doubleclick.net
 js-agent.newrelic.com
 snap.licdn.com
 www.everestjs.net
-www.facebook.com
+#www.facebook.com
 www.googleadservices.com
 www.googletagmanager.com
 match.prod.bidr.io

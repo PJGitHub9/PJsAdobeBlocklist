@@ -60,7 +60,7 @@ licenses.adobe.com
 ims-na1.adobelogin.com 
 lm.licenses.adobe.com 
 exception.licenses.adobe.com 
-cdn-ffc.oobesaas.adobe.com/*
+#cdn-ffc.oobesaas.adobe.com/*
 cc-api-sharedproductions-prerelease.adobe.io 
 polka.typekit.net 
 echosign.adobe.com

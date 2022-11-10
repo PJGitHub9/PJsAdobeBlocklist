@@ -412,7 +412,7 @@ newrelic.com
 #*.adobesc.com
 #sharedcloud-production*.s3.amazonaws.com
 #acpprodva7apollo.blob.core.windows.net/acp-prod-va7-data*
-platform-cs*.adobe.io
+#platform-cs*.adobe.io
 #acp-ss-*.adobe.io
 #*.adobess.com
 #cc-api-storage*.adobe.io
@@ -459,7 +459,7 @@ adobetag.com
 ans.oobesas.adobe.com
 api.adobe.io
 adobeexchange.com/api
-*.licenses.adobe.com
+#*.licenses.adobe.com
 amazonaws.com
 adobe.io
 cc-api-sharedproductions-prerelease.adobe.io

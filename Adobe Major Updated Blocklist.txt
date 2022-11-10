@@ -203,7 +203,7 @@ mir-s3-cdn-cf.behance.net
 swupmf.adobe.com
 swupdl.adobe.com
 oobe.adobe.com
-*.productrouter.adobe.com
+#*.productrouter.adobe.com
 s3.amazonaws.com
 s3.amazonaws.com/tron-ffc-icons-prod/
 tron-prod-customized-user-packages.s3.amazonaws.com
@@ -243,7 +243,7 @@ supportanyware.adobe.io
 #Adobe Genuine Integrity Service:
 genuine.adobe.com
 prod.adobegenuine.com
-gocart-web-prod-*.elb.amazonaws.com
+#gocart-web-prod-*.elb.amazonaws.com
 
 #Sign in user experience:
 acc-learn.adobe.com
@@ -288,8 +288,8 @@ account.adobe.com
 acp-ss-an1.adobe.io
 acp-ss-ew1.adobe.io
 acp-ss.adobe.io
-*.adbecrsl.com
-*.adbephotos.com
+#*.adbecrsl.com
+#*.adbephotos.com
 adobe.ly
 adobesearch.adobe.io
 appregistry.adobe.io
@@ -325,7 +325,7 @@ comments.adobe.io
 community.adobe.com
 connect.ffc.adobeoobe.com
 creativecloud.adobe.com
-*.creativecloud.com
+#*.creativecloud.com
 cvs.adobe.com
 d32a1iuc7x840y.cloudfront.net
 d3gnp5fs6fu2h7.cloudfront.net
@@ -355,10 +355,10 @@ links.adobe.io
 livecreate-an1.adobe.io
 livecreate-ew1.adobe.io
 livecreate-ue1.adobe.io
-*.macromedia.com
+#*.macromedia.com
 mail.adobegov.com
 odin.adobe.com
-*.omniture.com
+#*.omniture.com
 pgc.adobe.io
 photos.adobe.io
 photoshop.adobe.com
@@ -409,25 +409,25 @@ newrelic.com
 
 ###Services accessed from Creative Cloud applications###
 
-*.adobesc.com
-sharedcloud-production*.s3.amazonaws.com
-acpprodva7apollo.blob.core.windows.net/acp-prod-va7-data*
+#*.adobesc.com
+#sharedcloud-production*.s3.amazonaws.com
+#acpprodva7apollo.blob.core.windows.net/acp-prod-va7-data*
 platform-cs*.adobe.io
-acp-ss-*.adobe.io
-*.adobess.com
-cc-api-storage*.adobe.io
+#acp-ss-*.adobe.io
+#*.adobess.com
+#cc-api-storage*.adobe.io
 assets2.adobe.com
 adobeexchange.com
 adbemdigitalmediarebootprod2.112.2o7.net
 assets.adobedtm.com
 cdn.tt.omtrdc.net
 api.demandbase.com
-*.ftcdn.net
-*.behance.net
+#*.ftcdn.net
+#*.behance.net
 dpm.demdex.net
 cc-api-image.adobe.io/createagc
 cc-api-image-x.adobe.io/agctosvg
-*.astockcdn.net
+#*.astockcdn.net
 cc-api-assets.adobe.io
 api.behance.net
 adobe.demdex.net
@@ -435,8 +435,8 @@ adobe.tt.omtrdc.net
 store1.adobe.com
 adobe.com
 bam.nr-data.net
-*.adobe.io
-*s3*.amazonaws.com
+#*.adobe.io
+#*s3*.amazonaws.com
 bat.bing.com
 c.betrad.com
 c.evidon.com
@@ -477,7 +477,7 @@ cai.adobe.io
 cai-identity.adobe.io
 cai-msb.adobe.io
 cai-manifests.adobe.com
-oz-prod*.s3*.amazonaws.com
+#oz-prod*.s3*.amazonaws.com
 
 ###Creative Cloud services accessed from browsers###
 creative.adobe.com
@@ -498,8 +498,8 @@ s3-us-west-2.amazonaws.com
 frameio-application-production.s3-accelerate.amazonaws.com
 frameio-assets-production.s3-accelerate.amazonaws.com
 d24n15hnbwhuhn.cloudfront.net
-*.frame.io
-*.f.io
+#*.frame.io
+#*.f.io
 frameio-assets.s3.amazonaws.com
 wss://sockets.frame.io
 applications.frame.io
@@ -530,7 +530,7 @@ fast.appcues.com
 api.appcues.net
 my.appcues.com
 sentry.io
-*.services.adobe.com
+#*.services.adobe.com
 lcs-entitlement.adobe.io/v1/user
 lcs-entitlement.adobe.io/v1/trial
 licensing.adobe.com
